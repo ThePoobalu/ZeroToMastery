@@ -73,6 +73,10 @@ body {
  **********************************************************************/
 
 .red {
+    height: 300px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
     background: #C655BE;
     /* Old browsers */
     background: -moz-linear-gradient(top, #C655BE 0%, #cf0404 100%);
